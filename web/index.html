@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bug Identifier Flashcards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Bug Identifier</h1>
+            <p>Test your entomology knowledge!</p>
+        </header>
+
+        <div class="controls">
+            <div class="control-group">
+                <label for="order-filter">Filter by Order:</label>
+                <select id="order-filter">
+                    <option value="all">All Orders</option>
+                    <!-- Options populated by JS -->
+                </select>
+            </div>
+            <div class="control-group">
+                <label for="game-mode">Game Mode:</label>
+                <select id="game-mode">
+                    <option value="species">Guess Species</option>
+                    <option value="family">Guess Family</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="card-area">
+            <div id="question-text">What is this bug?</div>
+
+            <div class="image-container">
+                <img id="bug-image" src="" alt="Bug Image">
+            </div>
+
+            <div class="input-area">
+                <input type="text" id="user-input" placeholder="Enter common name..." autocomplete="off">
+                <br>
+                <div class="buttons">
+                    <button id="submit-button">Submit Guess</button>
+                    <button id="hint-button">Hint</button>
+                    <button id="reveal-button">Reveal Answer</button>
+                </div>
+            </div>
+
+            <div id="feedback-area"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

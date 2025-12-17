@@ -1,0 +1,5 @@
+bugbo_repo/
+__pycache__/
+*.pyc
+.idea/
+.vscode/

@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "1",
+        "common_name": "Termites",
+        "scientific_name": "Termitidae",
+        "order": "Blattodea",
+        "family": "Termitidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39360720/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/118902",
+        "key_facts": "Also known as: Termites"
+    },
+    {
+        "id": "2",
+        "common_name": "Household Roaches",
+        "scientific_name": "Blattidae",
+        "order": "Blattodea",
+        "family": "Blattidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28747739/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/82232",
+        "key_facts": "Also known as: Household Roaches, Cockroaches"
+    },
+    {
+        "id": "3",
+        "common_name": "Brown Hood Roaches",
+        "scientific_name": "Cryptocercidae",
+        "order": "Blattodea",
+        "family": "Cryptocercidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20458817/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/337962",
+        "key_facts": "Also known as: Brown Hood Roaches"
+    },
+    {
+        "id": "4",
+        "common_name": "Ground Beetles",
+        "scientific_name": "Carabidae",
+        "order": "Coleoptera",
+        "family": "Carabidae",
+        "image_url": "https://static.inaturalist.org/photos/111729255/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/49567",
+        "key_facts": "Also known as: Ground Beetles, Tiger Beetles"
+    },
+    {
+        "id": "5",
+        "common_name": "Predaceous Diving Beetles",
+        "scientific_name": "Dytiscidae",
+        "order": "Coleoptera",
+        "family": "Dytiscidae",
+        "image_url": "https://static.inaturalist.org/photos/5137484/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/57659",
+        "key_facts": "Also known as: Predaceous Diving Beetles"
+    },
+    {
+        "id": "6",
+        "common_name": "Whirligig Beetles",
+        "scientific_name": "Gyrinidae",
+        "order": "Coleoptera",
+        "family": "Gyrinidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29508329/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/119971",
+        "key_facts": "Also known as: Whirligig Beetles"
+    },
+    {
+        "id": "7",
+        "common_name": "Water Scavenger Beetles",
+        "scientific_name": "Hydrophilidae",
+        "order": "Coleoptera",
+        "family": "Hydrophilidae",
+        "image_url": "https://static.inaturalist.org/photos/9908264/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/127444",
+        "key_facts": "Also known as: Water Scavenger Beetles"
+    },
+    {
+        "id": "8",
+        "common_name": "Water Penny Beetles",
+        "scientific_name": "Psephenidae",
+        "order": "Coleoptera",
+        "family": "Psephenidae",
+        "image_url": "https://static.inaturalist.org/photos/383652/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/143858",
+        "key_facts": "Also known as: Water Penny Beetles"
+    },
+    {
+        "id": "9",
+        "common_name": "Riffle Beetles",
+        "scientific_name": "Elmidae",
+        "order": "Coleoptera",
+        "family": "Elmidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180105/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/85753",
+        "key_facts": "Also known as: Riffle Beetles"
+    },
+    {
+        "id": "10",
+        "common_name": "Hister Beetles",
+        "scientific_name": "Histeridae",
+        "order": "Coleoptera",
+        "family": "Histeridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439626405/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/68869",
+        "key_facts": "Also known as: Hister Beetles"
+    },
+    {
+        "id": "11",
+        "common_name": "Rove Beetles",
+        "scientific_name": "Staphylinidae",
+        "order": "Coleoptera",
+        "family": "Staphylinidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8130819/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47951",
+        "key_facts": "Also known as: Rove Beetles"
+    },
+    {
+        "id": "12",
+        "common_name": "Burying Beetles",
+        "scientific_name": "Silphidae",
+        "order": "Coleoptera",
+        "family": "Silphidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/569248697/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/1642609",
+        "key_facts": "Also known as: Burying Beetles, Carrion Beetles"
+    },
+    {
+        "id": "13",
+        "common_name": "Stag Beetles",
+        "scientific_name": "Lucanidae",
+        "order": "Coleoptera",
+        "family": "Lucanidae",
+        "image_url": "https://static.inaturalist.org/photos/3833143/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/49083",
+        "key_facts": "Also known as: Stag Beetles"
+    },
+    {
+        "id": "14",
+        "common_name": "Bess Beetles",
+        "scientific_name": "Passalidae",
+        "order": "Coleoptera",
+        "family": "Passalidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75729/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/84443",
+        "key_facts": "Also known as: Bess Beetles"
+    },
+    {
+        "id": "15",
+        "common_name": "Scarabs",
+        "scientific_name": "Scarabaeidae",
+        "order": "Coleoptera",
+        "family": "Scarabaeidae",
+        "image_url": "https://static.inaturalist.org/photos/20196117/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/48201",
+        "key_facts": "Also known as: Scarabs"
+    },
+    {
+        "id": "16",
+        "common_name": "Jewel Beetles",
+        "scientific_name": "Buprestidae",
+        "order": "Coleoptera",
+        "family": "Buprestidae",
+        "image_url": "https://static.inaturalist.org/photos/55823629/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/54964",
+        "key_facts": "Also known as: Jewel Beetles"
+    },
+    {
+        "id": "17",
+        "common_name": "Click Beetles",
+        "scientific_name": "Elateridae",
+        "order": "Coleoptera",
+        "family": "Elateridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28319706/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/53248",
+        "key_facts": "Also known as: Click Beetles"
+    },
+    {
+        "id": "18",
+        "common_name": "Fireflies",
+        "scientific_name": "Lampyridae",
+        "order": "Coleoptera",
+        "family": "Lampyridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4202184/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47731",
+        "key_facts": "Also known as: Fireflies"
+    },
+    {
+        "id": "19",
+        "common_name": "Soldier Beetles",
+        "scientific_name": "Cantharidae",
+        "order": "Coleoptera",
+        "family": "Cantharidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12296/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/52932",
+        "key_facts": "Also known as: Soldier Beetles"
+    },
+    {
+        "id": "20",
+        "common_name": "Net-Winged Beetles",
+        "scientific_name": "Lycidae",
+        "order": "Coleoptera",
+        "family": "Lycidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5719832/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/49360",
+        "key_facts": "Also known as: Net-Winged Beetles"
+    },
+    {
+        "id": "21",
+        "common_name": "Checkered Beetles",
+        "scientific_name": "Cleridae",
+        "order": "Coleoptera",
+        "family": "Cleridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59047930/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/55051",
+        "key_facts": "Also known as: Checkered Beetles"
+    },
+    {
+        "id": "22",
+        "common_name": "Lady Beetles",
+        "scientific_name": "Coccinellidae",
+        "order": "Coleoptera",
+        "family": "Coccinellidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75979875/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/48486",
+        "key_facts": "Also known as: Lady Beetles"
+    },
+    {
+        "id": "23",
+        "common_name": "Darkling Beetles",
+        "scientific_name": "Tenebrionidae",
+        "order": "Coleoptera",
+        "family": "Tenebrionidae",
+        "image_url": "https://static.inaturalist.org/photos/58244838/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/53816",
+        "key_facts": "Also known as: Darkling Beetles"
+    },
+    {
+        "id": "24",
+        "common_name": "Blister Beetles",
+        "scientific_name": "Meloidae",
+        "order": "Coleoptera",
+        "family": "Meloidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16224199/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/59510",
+        "key_facts": "Also known as: Blister Beetles"
+    },
+    {
+        "id": "25",
+        "common_name": "Longhorn Beetles",
+        "scientific_name": "Cerambycidae",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15152305/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47961",
+        "key_facts": "Also known as: Longhorn Beetles"
+    },
+    {
+        "id": "26",
+        "common_name": "Leaf Beetles",
+        "scientific_name": "Chrysomelidae",
+        "order": "Coleoptera",
+        "family": "Chrysomelidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28711963/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/51146",
+        "key_facts": "Also known as: Leaf Beetles"
+    },
+    {
+        "id": "27",
+        "common_name": "True Weevils",
+        "scientific_name": "Curculionidae",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71481115/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/48736",
+        "key_facts": "Also known as: True Weevils"
+    },
+    {
+        "id": "28",
+        "common_name": "Ironclad Beetles",
+        "scientific_name": "Zopheridae",
+        "order": "Coleoptera",
+        "family": "Zopheridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122089037/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/47592",
+        "key_facts": "Also known as: Ironclad Beetles, Iron Clad Beetles, Diabolical Ironclad Beetles, Diabolical Iron Clad Beetles"
+    },
+    {
+        "id": "29",
+        "common_name": "Flat Bark Beetles",
+        "scientific_name": "Cucujidae",
+        "order": "Coleoptera",
+        "family": "Cucujidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17769340/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/85716",
+        "key_facts": "Also known as: Flat Bark Beetles"
+    },
+    {
+        "id": "30",
+        "common_name": "Large Crane Flies",
+        "scientific_name": "Tipulidae",
+        "order": "Diptera",
+        "family": "Tipulidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33088193/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/51225",
+        "key_facts": "Also known as: Large Crane Flies"
+    },
+    {
+        "id": "31",
+        "common_name": "Mosquitoes",
+        "scientific_name": "Culicidae",
+        "order": "Diptera",
+        "family": "Culicidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31224840/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/52134",
+        "key_facts": "Also known as: Mosquitoes"
+    },
+    {
+        "id": "32",
+        "common_name": "Non-Biting Midges",
+        "scientific_name": "Chironomidae",
+        "order": "Diptera",
+        "family": "Chironomidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131906/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/53275",
+        "key_facts": "Also known as: Non-Biting Midges"
+    },
+    {
+        "id": "33",
+        "common_name": "Black Flies",
+        "scientific_name": "Simuliidae",
+        "order": "Diptera",
+        "family": "Simuliidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33149746/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/63164",
+        "key_facts": "Also known as: Black Flies"
+    },
+    {
+        "id": "34",
+        "common_name": "Soldier Flies",
+        "scientific_name": "Stratiomyidae",
+        "order": "Diptera",
+        "family": "Stratiomyidae",
+        "image_url": "https://static.inaturalist.org/photos/28898222/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/70127",
+        "key_facts": "Also known as: Soldier Flies"
+    },
+    {
+        "id": "35",
+        "common_name": "Horse Flies",
+        "scientific_name": "Tabanidae",
+        "order": "Diptera",
+        "family": "Tabanidae",
+        "image_url": "https://static.inaturalist.org/photos/9442022/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/47821",
+        "key_facts": "Also known as: Horse Flies, Deer Flies"
+    },
+    {
+        "id": "36",
+        "common_name": "Robber Flies",
+        "scientific_name": "Asilidae",
+        "order": "Diptera",
+        "family": "Asilidae",
+        "image_url": "https://static.inaturalist.org/photos/19354600/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47982",
+        "key_facts": "Also known as: Robber Flies"
+    },
+    {
+        "id": "37",
+        "common_name": "Bee Flies",
+        "scientific_name": "Bombyliidae",
+        "order": "Diptera",
+        "family": "Bombyliidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71752536/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/51558",
+        "key_facts": "Also known as: Bee Flies"
+    },
+    {
+        "id": "38",
+        "common_name": "Hover Flies",
+        "scientific_name": "Syrphidae",
+        "order": "Diptera",
+        "family": "Syrphidae",
+        "image_url": "https://static.inaturalist.org/photos/16832797/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/49995",
+        "key_facts": "Also known as: Hover Flies"
+    },
+    {
+        "id": "39",
+        "common_name": "Fruit Flies",
+        "scientific_name": "Tephritidae",
+        "order": "Diptera",
+        "family": "Tephritidae",
+        "image_url": "https://static.inaturalist.org/photos/52385191/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/47990",
+        "key_facts": "Also known as: Fruit Flies"
+    },
+    {
+        "id": "40",
+        "common_name": "Vinegar Flies",
+        "scientific_name": "Drosophilidae",
+        "order": "Diptera",
+        "family": "Drosophilidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31205100/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/67742",
+        "key_facts": "Also known as: Vinegar Flies, Fruit Flies"
+    },
+    {
+        "id": "41",
+        "common_name": "House Flies",
+        "scientific_name": "Muscidae",
+        "order": "Diptera",
+        "family": "Muscidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10744702/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/70144",
+        "key_facts": "Also known as: House Flies"
+    },
+    {
+        "id": "42",
+        "common_name": "Blow Flies",
+        "scientific_name": "Calliphoridae",
+        "order": "Diptera",
+        "family": "Calliphoridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100085967/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/61860",
+        "key_facts": "Also known as: Blow Flies"
+    },
+    {
+        "id": "43",
+        "common_name": "Tachinid Flies",
+        "scientific_name": "Tachinidae",
+        "order": "Diptera",
+        "family": "Tachinidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6026528/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/51953",
+        "key_facts": "Also known as: Tachinid Flies"
+    },
+    {
+        "id": "44",
+        "common_name": "Botflies",
+        "scientific_name": "Oestridae",
+        "order": "Diptera",
+        "family": "Oestridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5410342/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/154882",
+        "key_facts": "Also known as: Botflies"
+    },
+    {
+        "id": "45",
+        "common_name": "Water Boatmen",
+        "scientific_name": "Corixidae",
+        "order": "Hemiptera",
+        "family": "Corixidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116409262/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/84735",
+        "key_facts": "Also known as: Water Boatmen"
+    },
+    {
+        "id": "46",
+        "common_name": "Typical Backswimmers",
+        "scientific_name": "Notonectidae",
+        "order": "Hemiptera",
+        "family": "Notonectidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61833551/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/56556",
+        "key_facts": "Also known as: Typical Backswimmers"
+    },
+    {
+        "id": "47",
+        "common_name": "Giant Water Bugs",
+        "scientific_name": "Belostomatidae",
+        "order": "Hemiptera",
+        "family": "Belostomatidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2379636/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/81570",
+        "key_facts": "Also known as: Giant Water Bugs"
+    },
+    {
+        "id": "48",
+        "common_name": "Waterscorpions",
+        "scientific_name": "Nepidae",
+        "order": "Hemiptera",
+        "family": "Nepidae",
+        "image_url": "https://static.inaturalist.org/photos/22195069/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/119347",
+        "key_facts": "Also known as: Waterscorpions"
+    },
+    {
+        "id": "49",
+        "common_name": "Toad Bugs",
+        "scientific_name": "Gelastocoridae",
+        "order": "Hemiptera",
+        "family": "Gelastocoridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5575/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/53499",
+        "key_facts": "Also known as: Toad Bugs"
+    },
+    {
+        "id": "50",
+        "common_name": "Water Striders",
+        "scientific_name": "Gerridae",
+        "order": "Hemiptera",
+        "family": "Gerridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1427421/medium.JPG",
+        "inat_url": "https://www.inaturalist.org/taxa/59653",
+        "key_facts": "Also known as: Water Striders"
+    },
+    {
+        "id": "51",
+        "common_name": "Bed Bugs",
+        "scientific_name": "Cimicidae",
+        "order": "Hemiptera",
+        "family": "Cimicidae",
+        "image_url": "https://static.inaturalist.org/photos/463743113/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/53667",
+        "key_facts": "Also known as: Bed Bugs"
+    },
+    {
+        "id": "52",
+        "common_name": "Plant Bugs",
+        "scientific_name": "Miridae",
+        "order": "Hemiptera",
+        "family": "Miridae",
+        "image_url": "https://static.inaturalist.org/photos/7979579/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/53505",
+        "key_facts": "Also known as: Plant Bugs"
+    },
+    {
+        "id": "53",
+        "common_name": "Assassin Bugs",
+        "scientific_name": "Reduviidae",
+        "order": "Hemiptera",
+        "family": "Reduviidae",
+        "image_url": "https://static.inaturalist.org/photos/247507695/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/48959",
+        "key_facts": "Also known as: Assassin Bugs"
+    },
+    {
+        "id": "54",
+        "common_name": "Metallic Shield Bugs",
+        "scientific_name": "Scutelleridae",
+        "order": "Hemiptera",
+        "family": "Scutelleridae",
+        "image_url": "https://static.inaturalist.org/photos/20305240/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/49525",
+        "key_facts": "Also known as: Metallic Shield Bugs"
+    },
+    {
+        "id": "55",
+        "common_name": "Lace Bugs",
+        "scientific_name": "Tingidae",
+        "order": "Hemiptera",
+        "family": "Tingidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141506/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/53506",
+        "key_facts": "Also known as: Lace Bugs"
+    },
+    {
+        "id": "56",
+        "common_name": "Seed Bugs",
+        "scientific_name": "Lygaeidae",
+        "order": "Hemiptera",
+        "family": "Lygaeidae",
+        "image_url": "https://static.inaturalist.org/photos/18348145/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/55558",
+        "key_facts": "Also known as: Seed Bugs"
+    },
+    {
+        "id": "57",
+        "common_name": "Leaf-Footed Bugs",
+        "scientific_name": "Coreidae",
+        "order": "Hemiptera",
+        "family": "Coreidae",
+        "image_url": "https://static.inaturalist.org/photos/8076766/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/51777",
+        "key_facts": "Also known as: Leaf-Footed Bugs"
+    },
+    {
+        "id": "58",
+        "common_name": "Stink Bugs",
+        "scientific_name": "Pentatomidae",
+        "order": "Hemiptera",
+        "family": "Pentatomidae",
+        "image_url": "https://static.inaturalist.org/photos/1164510/medium.JPG",
+        "inat_url": "https://www.inaturalist.org/taxa/47742",
+        "key_facts": "Also known as: Stink Bugs"
+    },
+    {
+        "id": "59",
+        "common_name": "Typical Cicadas",
+        "scientific_name": "Cicadidae",
+        "order": "Hemiptera",
+        "family": "Cicadidae",
+        "image_url": "https://static.inaturalist.org/photos/55452058/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/50186",
+        "key_facts": "Also known as: Typical Cicadas"
+    },
+    {
+        "id": "60",
+        "common_name": "Typical Treehoppers",
+        "scientific_name": "Membracidae",
+        "order": "Hemiptera",
+        "family": "Membracidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2463342/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/49024",
+        "key_facts": "Also known as: Typical Treehoppers"
+    },
+    {
+        "id": "61",
+        "common_name": "Froghoppers",
+        "scientific_name": "Cercopidae",
+        "order": "Hemiptera",
+        "family": "Cercopidae",
+        "image_url": "https://static.inaturalist.org/photos/1302173/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/61863",
+        "key_facts": "Also known as: Froghoppers"
+    },
+    {
+        "id": "62",
+        "common_name": "Typical Leafhoppers",
+        "scientific_name": "Cicadellidae",
+        "order": "Hemiptera",
+        "family": "Cicadellidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30451013/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/53237",
+        "key_facts": "Also known as: Typical Leafhoppers"
+    },
+    {
+        "id": "63",
+        "common_name": "Lanternflies",
+        "scientific_name": "Fulgoridae",
+        "order": "Hemiptera",
+        "family": "Fulgoridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11337579/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/54944",
+        "key_facts": "Also known as: Lanternflies"
+    },
+    {
+        "id": "64",
+        "common_name": "Aphids",
+        "scientific_name": "Aphididae",
+        "order": "Hemiptera",
+        "family": "Aphididae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5648128/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/52381",
+        "key_facts": "Also known as: Aphids"
+    },
+    {
+        "id": "65",
+        "common_name": "Mealybugs",
+        "scientific_name": "Pseudococcidae",
+        "order": "Hemiptera",
+        "family": "Pseudococcidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17286845/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/49574",
+        "key_facts": "Also known as: Mealybugs"
+    },
+    {
+        "id": "66",
+        "common_name": "Soft Scale Insects",
+        "scientific_name": "Coccidae",
+        "order": "Hemiptera",
+        "family": "Coccidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11034671/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/49456",
+        "key_facts": "Also known as: Soft Scale Insects"
+    },
+    {
+        "id": "67",
+        "common_name": "Common Sawflies",
+        "scientific_name": "Tenthredinidae",
+        "order": "Hymenoptera",
+        "family": "Tenthredinidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73883762/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/60628",
+        "key_facts": "Also known as: Common Sawflies"
+    },
+    {
+        "id": "68",
+        "common_name": "Horntails",
+        "scientific_name": "Siricidae",
+        "order": "Hymenoptera",
+        "family": "Siricidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59113118/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/53256",
+        "key_facts": "Also known as: Horntails"
+    },
+    {
+        "id": "69",
+        "common_name": "Ichneumonid Wasps",
+        "scientific_name": "Ichneumonidae",
+        "order": "Hymenoptera",
+        "family": "Ichneumonidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/287485650/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47199",
+        "key_facts": "Also known as: Ichneumonid Wasps"
+    },
+    {
+        "id": "70",
+        "common_name": "Gall Wasps",
+        "scientific_name": "Cynipidae",
+        "order": "Hymenoptera",
+        "family": "Cynipidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59681567/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/55594",
+        "key_facts": "Also known as: Gall Wasps"
+    },
+    {
+        "id": "71",
+        "common_name": "Velvet Ants",
+        "scientific_name": "Mutillidae",
+        "order": "Hymenoptera",
+        "family": "Mutillidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/209170689/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/48511",
+        "key_facts": "Also known as: Velvet Ants"
+    },
+    {
+        "id": "72",
+        "common_name": "Ants",
+        "scientific_name": "Formicidae",
+        "order": "Hymenoptera",
+        "family": "Formicidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28024766/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47336",
+        "key_facts": "Also known as: Ants"
+    },
+    {
+        "id": "73",
+        "common_name": "Hornets",
+        "scientific_name": "Vespidae",
+        "order": "Hymenoptera",
+        "family": "Vespidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26329814/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/52747",
+        "key_facts": "Also known as: Hornets, Paper Wasps, Potter Wasps"
+    },
+    {
+        "id": "74",
+        "common_name": "Thread-Waisted Wasps",
+        "scientific_name": "Sphecidae",
+        "order": "Hymenoptera",
+        "family": "Sphecidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1157379/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/48742",
+        "key_facts": "Also known as: Thread-Waisted Wasps"
+    },
+    {
+        "id": "75",
+        "common_name": "Braconid Wasps",
+        "scientific_name": "Braconidae",
+        "order": "Hymenoptera",
+        "family": "Braconidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343606575/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/63187",
+        "key_facts": "Also known as: Braconid Wasps"
+    },
+    {
+        "id": "76",
+        "common_name": "Sweat Bees",
+        "scientific_name": "Halictidae",
+        "order": "Hymenoptera",
+        "family": "Halictidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19744145/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/49707",
+        "key_facts": "Also known as: Sweat Bees"
+    },
+    {
+        "id": "77",
+        "common_name": "Mason Bees",
+        "scientific_name": "Megachilidae",
+        "order": "Hymenoptera",
+        "family": "Megachilidae",
+        "image_url": "https://static.inaturalist.org/photos/98816292/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/52777",
+        "key_facts": "Also known as: Mason Bees, Leafcutter Bees, Carder Bees, Resin Bees"
+    },
+    {
+        "id": "78",
+        "common_name": "Honey Bees",
+        "scientific_name": "Apidae",
+        "order": "Hymenoptera",
+        "family": "Apidae",
+        "image_url": "https://static.inaturalist.org/photos/99292075/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47221",
+        "key_facts": "Also known as: Honey Bees, Bumble Bees"
+    },
+    {
+        "id": "79",
+        "common_name": "Hardbacked Ticks",
+        "scientific_name": "Ixodidae",
+        "order": "Ixodida",
+        "family": "Ixodidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19240115/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/51673",
+        "key_facts": "Also known as: Hardbacked Ticks"
+    },
+    {
+        "id": "80",
+        "common_name": "Clearwing Moths",
+        "scientific_name": "Sesiidae",
+        "order": "Lepidoptera",
+        "family": "Sesiidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128101361/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/51573",
+        "key_facts": "Also known as: Clearwing Moths"
+    },
+    {
+        "id": "81",
+        "common_name": "Tortricid Leafroller Moths",
+        "scientific_name": "Tortricidae",
+        "order": "Lepidoptera",
+        "family": "Tortricidae",
+        "image_url": "https://static.inaturalist.org/photos/46496208/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47155",
+        "key_facts": "Also known as: Tortricid Leafroller Moths"
+    },
+    {
+        "id": "82",
+        "common_name": "Skippers",
+        "scientific_name": "Hesperiidae",
+        "order": "Lepidoptera",
+        "family": "Hesperiidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46937063/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47653",
+        "key_facts": "Also known as: Skippers"
+    },
+    {
+        "id": "83",
+        "common_name": "Swallowtails",
+        "scientific_name": "Papilionidae",
+        "order": "Lepidoptera",
+        "family": "Papilionidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188214917/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47223",
+        "key_facts": "Also known as: Swallowtails, Parnassians"
+    },
+    {
+        "id": "84",
+        "common_name": "Whites",
+        "scientific_name": "Pieridae",
+        "order": "Lepidoptera",
+        "family": "Pieridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460140204/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/48508",
+        "key_facts": "Also known as: Whites, Yellows, Sulphurs"
+    },
+    {
+        "id": "85",
+        "common_name": "Gossamer-Winged Butterflies",
+        "scientific_name": "Lycaenidae",
+        "order": "Lepidoptera",
+        "family": "Lycaenidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/92665395/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/47923",
+        "key_facts": "Also known as: Gossamer-Winged Butterflies"
+    },
+    {
+        "id": "86",
+        "common_name": "Brush-Footed Butterflies",
+        "scientific_name": "Nymphalidae",
+        "order": "Lepidoptera",
+        "family": "Nymphalidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2885020/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47922",
+        "key_facts": "Also known as: Brush-Footed Butterflies"
+    },
+    {
+        "id": "87",
+        "common_name": "Geometer Moths",
+        "scientific_name": "Geometridae",
+        "order": "Lepidoptera",
+        "family": "Geometridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50987789/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/49530",
+        "key_facts": "Also known as: Geometer Moths"
+    },
+    {
+        "id": "88",
+        "common_name": "Tent Caterpillars",
+        "scientific_name": "Lasiocampidae",
+        "order": "Lepidoptera",
+        "family": "Lasiocampidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3879228/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/56584",
+        "key_facts": "Also known as: Tent Caterpillars"
+    },
+    {
+        "id": "89",
+        "common_name": "Pyralid Snout Moths",
+        "scientific_name": "Pyralidae",
+        "order": "Lepidoptera",
+        "family": "Pyralidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61104652/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/49683",
+        "key_facts": "Also known as: Pyralid Snout Moths"
+    },
+    {
+        "id": "90",
+        "common_name": "Emperor Moths",
+        "scientific_name": "Saturniidae",
+        "order": "Lepidoptera",
+        "family": "Saturniidae",
+        "image_url": "https://static.inaturalist.org/photos/416188682/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47918",
+        "key_facts": "Also known as: Emperor Moths, Giant Silk Moths"
+    },
+    {
+        "id": "91",
+        "common_name": "Sphinx Moths",
+        "scientific_name": "Sphingidae",
+        "order": "Lepidoptera",
+        "family": "Sphingidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8984982/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47213",
+        "key_facts": "Also known as: Sphinx Moths"
+    },
+    {
+        "id": "92",
+        "common_name": "Underwing Moths",
+        "scientific_name": "Erebidae",
+        "order": "Lepidoptera",
+        "family": "Erebidae",
+        "image_url": "https://static.inaturalist.org/photos/5550932/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/121850",
+        "key_facts": "Also known as: Underwing Moths, Tiger Moths, Tussock Moths"
+    },
+    {
+        "id": "93",
+        "common_name": "Owlet Moths",
+        "scientific_name": "Noctuidae",
+        "order": "Lepidoptera",
+        "family": "Noctuidae",
+        "image_url": "https://static.inaturalist.org/photos/255641010/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/48670",
+        "key_facts": "Also known as: Owlet Moths"
+    },
+    {
+        "id": "94",
+        "common_name": "Snow Scorpionflies",
+        "scientific_name": "Boreidae",
+        "order": "Mecoptera",
+        "family": "Boreidae",
+        "image_url": "https://static.inaturalist.org/photos/27768033/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/173350",
+        "key_facts": "Also known as: Snow Scorpionflies"
+    },
+    {
+        "id": "95",
+        "common_name": "Scorpionflies",
+        "scientific_name": "Panorpidae",
+        "order": "Mecoptera",
+        "family": "Panorpidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16670/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/51700",
+        "key_facts": "Also known as: Scorpionflies"
+    },
+    {
+        "id": "96",
+        "common_name": "Green Lacewings",
+        "scientific_name": "Chrysopidae",
+        "order": "Neuroptera",
+        "family": "Chrysopidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417794/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/52425",
+        "key_facts": "Also known as: Green Lacewings"
+    },
+    {
+        "id": "97",
+        "common_name": "Antlions",
+        "scientific_name": "Myrmeleontidae",
+        "order": "Neuroptera",
+        "family": "Myrmeleontidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33171981/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/49358",
+        "key_facts": "Also known as: Antlions, Owlflies"
+    },
+    {
+        "id": "98",
+        "common_name": "Darners",
+        "scientific_name": "Aeshnidae",
+        "order": "Odonata",
+        "family": "Aeshnidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53932593/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/51469",
+        "key_facts": "Also known as: Darners"
+    },
+    {
+        "id": "99",
+        "common_name": "Clubtails",
+        "scientific_name": "Gomphidae",
+        "order": "Odonata",
+        "family": "Gomphidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117521127/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/51128",
+        "key_facts": "Also known as: Clubtails"
+    },
+    {
+        "id": "100",
+        "common_name": "Spreadwings",
+        "scientific_name": "Lestidae",
+        "order": "Odonata",
+        "family": "Lestidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62217946/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/47930",
+        "key_facts": "Also known as: Spreadwings"
+    },
+    {
+        "id": "101",
+        "common_name": "Pygmy Grasshoppers",
+        "scientific_name": "Tetrigidae",
+        "order": "Orthoptera",
+        "family": "Tetrigidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254259026/medium.jpeg",
+        "inat_url": "https://www.inaturalist.org/taxa/57658",
+        "key_facts": "Also known as: Pygmy Grasshoppers"
+    },
+    {
+        "id": "102",
+        "common_name": "Katydids",
+        "scientific_name": "Tettigoniidae",
+        "order": "Orthoptera",
+        "family": "Tettigoniidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52079492/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/48124",
+        "key_facts": "Also known as: Katydids"
+    },
+    {
+        "id": "103",
+        "common_name": "True Crickets",
+        "scientific_name": "Gryllidae",
+        "order": "Orthoptera",
+        "family": "Gryllidae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419909128/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/52884",
+        "key_facts": "Also known as: True Crickets"
+    },
+    {
+        "id": "104",
+        "common_name": "Stick Insects",
+        "scientific_name": "Diapheromeridae",
+        "order": "Phasmida",
+        "family": "Diapheromeridae",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24763846/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/47320",
+        "key_facts": "Also known as: Stick Insects, Walkingsticks"
+    },
+    {
+        "id": "105",
+        "common_name": "Raphidiid Snakeflies",
+        "scientific_name": "Raphidiidae",
+        "order": "Raphidioptera",
+        "family": "Raphidiidae",
+        "image_url": "https://static.inaturalist.org/photos/15042960/medium.jpg",
+        "inat_url": "https://www.inaturalist.org/taxa/60052",
+        "key_facts": "Also known as: Raphidiid Snakeflies"
+    }
+]
