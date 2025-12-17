@@ -78,12 +78,18 @@ function loadNewCard() {
 
     // Update UI based on Mode
     const mode = gameMode.value;
-    if (mode === 'family') {
-        questionText.textContent = `Identify the Family of this ${currentBug.order || 'bug'}!`;
+
+    if (mode === 'order') {
+        questionText.textContent = "Identify the Order!";
+        userInput.placeholder = "Enter order name (e.g. Coleoptera)...";
+    } else if (mode === 'easy') {
+        // Easy: Show Order, Guess Family
+        questionText.innerHTML = `Identify the Family!<br><span style="font-size: 0.9em; font-weight: normal; color: #555;">(Order: ${currentBug.order})</span>`;
         userInput.placeholder = "Enter family name...";
     } else {
-        questionText.textContent = "What is this bug?";
-        userInput.placeholder = "Enter common name...";
+        // Hard: Guess Family, No Order
+        questionText.textContent = "Identify the Family!";
+        userInput.placeholder = "Enter family name...";
     }
 
     // Update Image
@@ -106,21 +112,31 @@ function checkAnswer() {
     const normalizedGuess = guess.toLowerCase().replace(/\s+/g, ' ');
     let isCorrect = false;
 
-    if (mode === 'family') {
-        const normalizedFamily = (currentBug.family || "").toLowerCase().replace(/\s+/g, ' ');
-        if (normalizedGuess === normalizedFamily) {
+    if (mode === 'order') {
+        // Checking Order
+        const normalizedOrder = (currentBug.order || "").toLowerCase().replace(/\s+/g, ' ');
+        if (normalizedGuess === normalizedOrder) {
             isCorrect = true;
         }
     } else {
-        const normalizedAnswer = currentBug.common_name.toLowerCase().replace(/\s+/g, ' ');
-        const normalizedScientific = currentBug.scientific_name.toLowerCase().replace(/\s+/g, ' ');
-        if (normalizedGuess === normalizedAnswer || normalizedGuess === normalizedScientific) {
+        // Checking Family (Easy or Hard)
+        // Accept either Scientific Family Name OR Common Family Name
+        const normalizedFamily = (currentBug.family || "").toLowerCase().replace(/\s+/g, ' ');
+        const normalizedScientific = (currentBug.scientific_name || "").toLowerCase().replace(/\s+/g, ' ');
+        const normalizedCommon = (currentBug.common_name || "").toLowerCase().replace(/\s+/g, ' ');
+
+        if (normalizedGuess === normalizedFamily || normalizedGuess === normalizedCommon || normalizedGuess === normalizedScientific) {
             isCorrect = true;
         }
     }
 
     if (isCorrect) {
-        feedbackArea.innerHTML = `✅ Correct! <br>Scientific Name: <em>${currentBug.scientific_name}</em><br>Family: ${currentBug.family}<br>${currentBug.key_facts}`;
+        let successMsg = `✅ Correct! <br>Scientific Family: <em>${currentBug.family}</em><br>Common: ${currentBug.common_name}`;
+        if (mode === 'order') {
+            successMsg = `✅ Correct! It is <strong>${currentBug.order}</strong>.`;
+        }
+
+        feedbackArea.innerHTML = successMsg + `<br>${currentBug.key_facts}`;
         feedbackArea.className = 'correct';
         endRound();
     } else {
@@ -166,12 +182,15 @@ function giveHint() {
     const mode = gameMode.value;
     let hintText = "";
 
-    if (mode === 'family') {
-        // Hint: Show Order or first letter of family
-        hintText = `Hint: It belongs to the Order ${currentBug.order}. Starts with '${currentBug.family.charAt(0)}'.`;
+    if (mode === 'order') {
+        // Hint: First letter of order
+        hintText = `Hint: Order starts with '${currentBug.order.charAt(0)}'.`;
+    } else if (mode === 'hard') {
+        // Hard: Show Order as hint
+        hintText = `Hint: It belongs to the Order ${currentBug.order}.`;
     } else {
-        // Hint: Show Family or first letter of common name
-        hintText = `Hint: Family is ${currentBug.family}. Starts with '${currentBug.common_name.charAt(0)}'.`;
+        // Easy: Show first letter of Family
+        hintText = `Hint: Family starts with '${currentBug.family.charAt(0)}'.`;
     }
 
     feedbackArea.textContent = hintText;

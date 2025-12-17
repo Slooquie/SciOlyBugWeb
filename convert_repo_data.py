@@ -11,7 +11,7 @@ REPO_DATA_PATH = "bugbo_repo/data/taxon"
 OUTPUT_FILE = "web/data/bug_data.json"
 
 # API setup
-API_URL = "https://api.inaturalist.org/v1/taxa?q={}&is_active=true&rank=family,subfamily&per_page=1"
+API_URL = "https://api.inaturalist.org/v1/taxa?q={}&is_active=true&per_page=1"
 
 # SSL Context
 ctx = ssl.create_default_context()
@@ -103,7 +103,7 @@ for file_path in txt_files:
             print(f"  - Skipped (no image): {scientific_family_name}")
             
         # Be nice to API
-        time.sleep(0.5)
+        time.sleep(1.0)
 
 # Write to JSON
 with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
