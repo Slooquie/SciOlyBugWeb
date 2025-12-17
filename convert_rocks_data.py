@@ -45,6 +45,25 @@ for file_path in txt_files:
         # Clean title case
         mineral_name = mineral_name.title()
         
+        # Manual Alias Map for Wikipedia Lookup
+        ALIAS_MAP = {
+            "Dolomite": "Dolomite (mineral)",
+            "Anthracite,Anthracite Coal": "Anthracite",
+            "Bituminous Coal,Bituminous": "Bituminous coal",
+            "Orthoclase,Potassium Feldspar,Feldspar": "Orthoclase",
+            "Apatite,Apatite Group": "Apatite",
+            "Citrine": "Citrine (quartz)",
+            "Chert,Flint": "Chert",
+            "Conglomerate": "Conglomerate (geology)",
+            "Rock Salt,Halite": "Halite",
+            "Rock Gypsum,Gypsum": "Gypsum",
+            "Tourmaline Group,Tourmaline": "Tourmaline",
+            "Celestite,Celestine": "Celestine (mineral)",
+        }
+        
+        # Use alias if present, otherwise split on comma and use first part
+        lookup_name = ALIAS_MAP.get(mineral_name, mineral_name.split(',')[0].strip())
+        
         image_url = ""
         description = ""
         wiki_url = ""
@@ -52,7 +71,7 @@ for file_path in txt_files:
         # Fetch from Wikipedia
         try:
             # Search query needs to be URL safe
-            query = urllib.parse.quote(mineral_name)
+            query = urllib.parse.quote(lookup_name)
             url = WIKI_API_URL.format(query)
             
             req = urllib.request.Request(url, headers={'User-Agent': 'MineroboStaticSiteGenerator/1.0 (https://github.com/Slooquie/SciOlyBugWeb)'})

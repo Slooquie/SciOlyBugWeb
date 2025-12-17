@@ -136,6 +136,15 @@
     },
     {
         "id": "16",
+        "common_name": "Dolomite",
+        "scientific_name": "Dolomite",
+        "category": "Carbonates",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Dolomite_Luzenac.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Dolomite_(mineral)",
+        "key_facts": "Dolomite is an anhydrous carbonate mineral composed of calcium magnesium carbonate, ideally CaMg(CO3)2."
+    },
+    {
+        "id": "17",
         "common_name": "Malachite",
         "scientific_name": "Malachite",
         "category": "Carbonates",
@@ -144,7 +153,7 @@
         "key_facts": "Malachite is a copper carbonate hydroxide mineral, with the formula Cu2CO3(OH)2."
     },
     {
-        "id": "17",
+        "id": "18",
         "common_name": "Rhodochrosite",
         "scientific_name": "Rhodochrosite",
         "category": "Carbonates",
@@ -153,7 +162,25 @@
         "key_facts": "Rhodochrosite is a manganese carbonate mineral with chemical composition MnCO3."
     },
     {
-        "id": "18",
+        "id": "19",
+        "common_name": "Anthracite,Anthracite Coal",
+        "scientific_name": "Anthracite,Anthracite Coal",
+        "category": "Coal Varieties",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Anthracite_chunk.JPG",
+        "source_url": "https://en.wikipedia.org/wiki/Anthracite",
+        "key_facts": "Anthracite, also known as hard coal and black coal, is a hard, compact variety of coal that has a submetallic lustre."
+    },
+    {
+        "id": "20",
+        "common_name": "Bituminous Coal,Bituminous",
+        "scientific_name": "Bituminous Coal,Bituminous",
+        "category": "Coal Varieties",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Coal_bituminous.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Bituminous_coal",
+        "key_facts": "Bituminous coal, or black coal, is a type of coal containing a tar-like substance called bitumen or asphalt."
+    },
+    {
+        "id": "21",
         "common_name": "Lignite",
         "scientific_name": "Lignite",
         "category": "Coal Varieties",
@@ -162,7 +189,7 @@
         "key_facts": "Lignite, often referred to as brown coal, is a soft, brown, combustible sedimentary rock formed from naturally compressed peat."
     },
     {
-        "id": "19",
+        "id": "22",
         "common_name": "Albite",
         "scientific_name": "Albite",
         "category": "Feldspar - Plagioclase",
@@ -171,7 +198,7 @@
         "key_facts": "Albite is a plagioclase feldspar mineral."
     },
     {
-        "id": "20",
+        "id": "23",
         "common_name": "Labradorite",
         "scientific_name": "Labradorite",
         "category": "Feldspar - Plagioclase",
@@ -180,7 +207,7 @@
         "key_facts": "Labradorite ((Ca, Na)(Al, Si)4O8) is a calcium-enriched feldspar mineral first identified in Labrador, Canada, which can display an iridescent effect (schiller)."
     },
     {
-        "id": "21",
+        "id": "24",
         "common_name": "Amazonite",
         "scientific_name": "Amazonite",
         "category": "Feldspar - Potassium",
@@ -189,7 +216,25 @@
         "key_facts": "Amazonite, also known as amazonstone, is a green tectosilicate mineral, a variety of the potassium feldspar called microcline. Its chemical formula is KAlSi3O8, which is polymorphic to orthoclase."
     },
     {
-        "id": "22",
+        "id": "25",
+        "common_name": "Orthoclase,Potassium Feldspar,Feldspar",
+        "scientific_name": "Orthoclase,Potassium Feldspar,Feldspar",
+        "category": "Feldspar - Potassium",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/OrthoclaseBresil.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Orthoclase",
+        "key_facts": "Orthoclase, or orthoclase feldspar (endmember formula KAlSi3O8), is an important tectosilicate mineral which forms igneous rock."
+    },
+    {
+        "id": "26",
+        "common_name": "Microcline,Potassium Feldspar,Feldspar",
+        "scientific_name": "Microcline,Potassium Feldspar,Feldspar",
+        "category": "Feldspar - Potassium",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Microcline-199473.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Microcline",
+        "key_facts": "Microcline (KAlSi3O8) is an important igneous rock-forming tectosilicate mineral."
+    },
+    {
+        "id": "27",
         "common_name": "Almandine",
         "scientific_name": "Almandine",
         "category": "Garnet Group",
@@ -198,7 +243,16 @@
         "key_facts": "Almandine, also known as almandite, is a mineral belonging to the garnet group."
     },
     {
-        "id": "23",
+        "id": "28",
+        "common_name": "Garnet,Garnet Group",
+        "scientific_name": "Garnet,Garnet Group",
+        "category": "Garnet Group",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Garnet_Andradite20.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Garnet",
+        "key_facts": "Garnets are a group of silicate minerals that have been used since the Bronze Age as gemstones and abrasives."
+    },
+    {
+        "id": "29",
         "common_name": "Alabaster",
         "scientific_name": "Alabaster",
         "category": "Gypsum Varieties",
@@ -207,7 +261,7 @@
         "key_facts": "Alabaster is a soft rock used for carvings and as a source of plaster powder."
     },
     {
-        "id": "24",
+        "id": "30",
         "common_name": "Satin Spar",
         "scientific_name": "Satin Spar",
         "category": "Gypsum Varieties",
@@ -216,7 +270,7 @@
         "key_facts": "Satin spar, less commonly atlas spar, is a trivial, partly obsolete name for fibrous varieties of the minerals gypsum, calcite, and aragonite."
     },
     {
-        "id": "25",
+        "id": "31",
         "common_name": "Fluorite",
         "scientific_name": "Fluorite",
         "category": "Halides",
@@ -225,7 +279,16 @@
         "key_facts": "Fluorite (also called fluorspar) is the mineral form of calcium fluoride, CaF2."
     },
     {
-        "id": "26",
+        "id": "32",
+        "common_name": "Halite,Rock Salt",
+        "scientific_name": "Halite,Rock Salt",
+        "category": "Halides",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Halit_%28NaCl%29_-_Kopalnia_soli_Wieliczka%2C_Polska.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Halite",
+        "key_facts": "Halite, commonly known as rock salt, is a type of salt, the mineral (natural) form of sodium chloride (NaCl)."
+    },
+    {
+        "id": "33",
         "common_name": "Andesite",
         "scientific_name": "Andesite",
         "category": "Igneous",
@@ -234,7 +297,7 @@
         "key_facts": "Andesite is a volcanic rock of intermediate composition."
     },
     {
-        "id": "27",
+        "id": "34",
         "common_name": "Basalt",
         "scientific_name": "Basalt",
         "category": "Igneous",
@@ -243,7 +306,7 @@
         "key_facts": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon."
     },
     {
-        "id": "28",
+        "id": "35",
         "common_name": "Diorite",
         "scientific_name": "Diorite",
         "category": "Igneous",
@@ -252,7 +315,7 @@
         "key_facts": "Diorite is an intrusive igneous rock formed by the slow cooling underground of magma that has a moderate content of silica and a relatively low content of alkali metals."
     },
     {
-        "id": "29",
+        "id": "36",
         "common_name": "Gabbro",
         "scientific_name": "Gabbro",
         "category": "Igneous",
@@ -261,7 +324,7 @@
         "key_facts": "Gabbro is a phaneritic (coarse-grained), mafic, intrusive igneous rock formed from the slow cooling magma into a holocrystalline mass deep beneath the Earth's surface."
     },
     {
-        "id": "30",
+        "id": "37",
         "common_name": "Granite",
         "scientific_name": "Granite",
         "category": "Igneous",
@@ -270,7 +333,7 @@
         "key_facts": "Granite is a coarse-grained (phaneritic) intrusive igneous rock composed mostly of quartz, alkali feldspar, and plagioclase."
     },
     {
-        "id": "31",
+        "id": "38",
         "common_name": "Obsidian",
         "scientific_name": "Obsidian",
         "category": "Igneous",
@@ -279,7 +342,7 @@
         "key_facts": "Obsidian is a naturally occurring volcanic glass formed when lava extruded from a volcano cools rapidly with minimal crystal growth."
     },
     {
-        "id": "32",
+        "id": "39",
         "common_name": "Pegmatite",
         "scientific_name": "Pegmatite",
         "category": "Igneous",
@@ -288,7 +351,7 @@
         "key_facts": "A pegmatite is an igneous rock showing a very coarse texture, with large interlocking crystals usually greater in size than 1\u00a0cm (0."
     },
     {
-        "id": "33",
+        "id": "40",
         "common_name": "Peridotite",
         "scientific_name": "Peridotite",
         "category": "Igneous",
@@ -297,7 +360,7 @@
         "key_facts": "Peridotite ( PERR-ih-doh-tyte, p\u0259-RID-\u0259-) is a dense, phaneritic (coarse-grained) igneous rock consisting mostly of the silicate minerals olivine and pyroxene."
     },
     {
-        "id": "34",
+        "id": "41",
         "common_name": "Pumice",
         "scientific_name": "Pumice",
         "category": "Igneous",
@@ -306,7 +369,7 @@
         "key_facts": "Pumice, called pumicite in its powdered or dust form, is a volcanic rock that consists of extremely vesicular rough-textured volcanic glass, which may or may not contain crystals."
     },
     {
-        "id": "35",
+        "id": "42",
         "common_name": "Rhyolite",
         "scientific_name": "Rhyolite",
         "category": "Igneous",
@@ -315,7 +378,7 @@
         "key_facts": "Rhyolite is the most silica-rich of volcanic rocks."
     },
     {
-        "id": "36",
+        "id": "43",
         "common_name": "Scoria",
         "scientific_name": "Scoria",
         "category": "Igneous",
@@ -324,7 +387,7 @@
         "key_facts": "Scoria or cinder is a pyroclastic, highly vesicular, dark-colored volcanic rock formed by ejection from a volcano as a molten blob and cooled in the air to form discrete grains called clasts."
     },
     {
-        "id": "37",
+        "id": "44",
         "common_name": "Syenite",
         "scientific_name": "Syenite",
         "category": "Igneous",
@@ -333,7 +396,7 @@
         "key_facts": "Syenite is a coarse-grained intrusive igneous rock with a general composition similar to that of granite, but deficient in quartz, which, if present at all, occurs in relatively small concentrations."
     },
     {
-        "id": "38",
+        "id": "45",
         "common_name": "Tuff",
         "scientific_name": "Tuff",
         "category": "Igneous",
@@ -342,7 +405,7 @@
         "key_facts": "Tuff is a type of rock made of volcanic ash ejected from a vent during a volcanic eruption."
     },
     {
-        "id": "39",
+        "id": "46",
         "common_name": "Chalk",
         "scientific_name": "Chalk",
         "category": "Limestone Varieties",
@@ -351,7 +414,7 @@
         "key_facts": "Chalk is a soft, white, porous, sedimentary carbonate rock."
     },
     {
-        "id": "40",
+        "id": "47",
         "common_name": "Coquina",
         "scientific_name": "Coquina",
         "category": "Limestone Varieties",
@@ -360,7 +423,16 @@
         "key_facts": "Coquina is a sedimentary rock that is composed either wholly or almost entirely of the transported, abraded, and mechanically sorted fragments of mollusks, trilobites, brachiopods, or other invertebrates."
     },
     {
-        "id": "41",
+        "id": "48",
+        "common_name": "Oolitic Limestone,Oolitic,Oolite",
+        "scientific_name": "Oolitic Limestone,Oolitic,Oolite",
+        "category": "Limestone Varieties",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ooids%2C_Joulter_Cays%2C_Bahamas.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Oolite",
+        "key_facts": "Oolite or o\u00f6lite is a sedimentary rock formed from ooids, spherical grains composed of concentric layers."
+    },
+    {
+        "id": "49",
         "common_name": "Travertine",
         "scientific_name": "Travertine",
         "category": "Limestone Varieties",
@@ -369,7 +441,7 @@
         "key_facts": "Travertine is a form of fresh water limestone deposited around mineral springs, especially hot springs."
     },
     {
-        "id": "42",
+        "id": "50",
         "common_name": "Amphibolite",
         "scientific_name": "Amphibolite",
         "category": "Metamorphic",
@@ -378,7 +450,7 @@
         "key_facts": "Amphibolite is a metamorphic rock that contains amphibole, especially hornblende and actinolite, as well as plagioclase feldspar, but with little or no quartz."
     },
     {
-        "id": "43",
+        "id": "51",
         "common_name": "Gneiss",
         "scientific_name": "Gneiss",
         "category": "Metamorphic",
@@ -387,7 +459,7 @@
         "key_facts": "Gneiss is a common and widely distributed type of metamorphic rock."
     },
     {
-        "id": "44",
+        "id": "52",
         "common_name": "Marble",
         "scientific_name": "Marble",
         "category": "Metamorphic",
@@ -396,7 +468,7 @@
         "key_facts": "Marble is a metamorphic rock consisting of carbonate minerals (most commonly calcite (CaCO3) or dolomite (CaMg(CO3)2) that have recrystallized under the influence of heat and pressure."
     },
     {
-        "id": "45",
+        "id": "53",
         "common_name": "Phyllite",
         "scientific_name": "Phyllite",
         "category": "Metamorphic",
@@ -405,7 +477,7 @@
         "key_facts": "Phyllite is a type of foliated metamorphic rock formed from slate that is further metamorphosed so that very fine grained white mica achieves a preferred orientation."
     },
     {
-        "id": "46",
+        "id": "54",
         "common_name": "Quartzite",
         "scientific_name": "Quartzite",
         "category": "Metamorphic",
@@ -414,7 +486,7 @@
         "key_facts": "Quartzite is a hard, non-foliated metamorphic rock that was originally pure quartz sandstone."
     },
     {
-        "id": "47",
+        "id": "55",
         "common_name": "Serpentinite",
         "scientific_name": "Serpentinite",
         "category": "Metamorphic",
@@ -423,7 +495,7 @@
         "key_facts": "Serpentinite is a metamorphic rock composed predominantly of serpentine group minerals formed by serpentinization of mafic or ultramafic rocks."
     },
     {
-        "id": "48",
+        "id": "56",
         "common_name": "Slate",
         "scientific_name": "Slate",
         "category": "Metamorphic",
@@ -432,7 +504,7 @@
         "key_facts": "Slate is a fine-grained, foliated, homogeneous, metamorphic rock derived from an original shale-type sedimentary rock composed of clay or volcanic ash through low-grade, regional metamorphism."
     },
     {
-        "id": "49",
+        "id": "57",
         "common_name": "Biotite",
         "scientific_name": "Biotite",
         "category": "Mica Group",
@@ -441,7 +513,7 @@
         "key_facts": "Biotite is a common group of phyllosilicate minerals within the mica group, with the approximate chemical formula K(Mg,Fe)3AlSi3O10(F,OH)2."
     },
     {
-        "id": "50",
+        "id": "58",
         "common_name": "Lepidolite",
         "scientific_name": "Lepidolite",
         "category": "Mica Group",
@@ -450,7 +522,7 @@
         "key_facts": "Lepidolite is the common name for a lilac-gray or rose-colored series of minerals in the mica group."
     },
     {
-        "id": "51",
+        "id": "59",
         "common_name": "Muscovite",
         "scientific_name": "Muscovite",
         "category": "Mica Group",
@@ -459,7 +531,7 @@
         "key_facts": "Muscovite (also known as common mica, isinglass, or potash mica) is a hydrated phyllosilicate mineral of aluminium and potassium with formula KAl2(AlSi3O10)(F,OH)2, or (KF)2(Al2O3)3(SiO2)6(H2O)."
     },
     {
-        "id": "52",
+        "id": "60",
         "common_name": "Copper",
         "scientific_name": "Copper",
         "category": "Native Elements",
@@ -468,7 +540,7 @@
         "key_facts": "Copper is a chemical element; it has symbol Cu and atomic number 29."
     },
     {
-        "id": "53",
+        "id": "61",
         "common_name": "Diamond",
         "scientific_name": "Diamond",
         "category": "Native Elements",
@@ -477,7 +549,7 @@
         "key_facts": "Diamond is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic."
     },
     {
-        "id": "54",
+        "id": "62",
         "common_name": "Gold",
         "scientific_name": "Gold",
         "category": "Native Elements",
@@ -486,7 +558,7 @@
         "key_facts": "Gold is a chemical element; it has chemical symbol Au and atomic number 79."
     },
     {
-        "id": "55",
+        "id": "63",
         "common_name": "Graphite",
         "scientific_name": "Graphite",
         "category": "Native Elements",
@@ -495,7 +567,7 @@
         "key_facts": "Graphite is a crystalline allotrope (form) of the element carbon."
     },
     {
-        "id": "56",
+        "id": "64",
         "common_name": "Silver",
         "scientific_name": "Silver",
         "category": "Native Elements",
@@ -504,7 +576,7 @@
         "key_facts": "Silver is a chemical element; it has symbol Ag and atomic number 47."
     },
     {
-        "id": "57",
+        "id": "65",
         "common_name": "Sulfur",
         "scientific_name": "Sulfur",
         "category": "Native Elements",
@@ -513,7 +585,16 @@
         "key_facts": "Sulfur (American spelling and the preferred IUPAC name) or sulphur (Commonwealth spelling) is a chemical element; it has symbol S and atomic number 16."
     },
     {
-        "id": "58",
+        "id": "66",
+        "common_name": "Apatite,Apatite Group",
+        "scientific_name": "Apatite,Apatite Group",
+        "category": "Phosphates",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Apatite_on_Siderite_%2813156440584%29.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Apatite",
+        "key_facts": "Apatite is a group of phosphate minerals, usually hydroxyapatite, fluorapatite and chlorapatite, with high concentrations of OH\u2212, F\u2212 and Cl\u2212 ion, respectively, in the crystal."
+    },
+    {
+        "id": "67",
         "common_name": "Pyromorphite",
         "scientific_name": "Pyromorphite",
         "category": "Phosphates",
@@ -522,7 +603,7 @@
         "key_facts": "Pyromorphite is a mineral species composed of lead chlorophosphate: Pb5(PO4)3Cl, sometimes occurring in sufficient abundance to be mined as an ore of lead."
     },
     {
-        "id": "59",
+        "id": "68",
         "common_name": "Turquoise",
         "scientific_name": "Turquoise",
         "category": "Phosphates",
@@ -531,7 +612,7 @@
         "key_facts": "Turquoise is an opaque, blue-to-green mineral that is a hydrous phosphate of copper and aluminium, with the chemical formula CuAl6(PO4)4(OH)8\u00b74H2O."
     },
     {
-        "id": "60",
+        "id": "69",
         "common_name": "Vanadinite",
         "scientific_name": "Vanadinite",
         "category": "Phosphates",
@@ -540,7 +621,7 @@
         "key_facts": "Vanadinite is a mineral belonging to the apatite group of phosphates, with the chemical formula Pb5(VO4)3Cl."
     },
     {
-        "id": "61",
+        "id": "70",
         "common_name": "Augite",
         "scientific_name": "Augite",
         "category": "Pyroxene Group",
@@ -549,7 +630,7 @@
         "key_facts": "Augite, also known as Augurite, is a common rock-forming pyroxene mineral with formula (Ca,Na)(Mg,Fe,Al,Ti)(Si,Al)2O6."
     },
     {
-        "id": "62",
+        "id": "71",
         "common_name": "Rhodonite",
         "scientific_name": "Rhodonite",
         "category": "Pyroxene Group",
@@ -558,7 +639,7 @@
         "key_facts": "Rhodonite is a manganese inosilicate, with the formula (Mn, Fe, Mg, Ca)SiO3, and member of the pyroxenoid group of minerals, crystallizing in the triclinic system."
     },
     {
-        "id": "63",
+        "id": "72",
         "common_name": "Spodumene",
         "scientific_name": "Spodumene",
         "category": "Pyroxene Group",
@@ -567,7 +648,7 @@
         "key_facts": "Spodumene is a pyroxene mineral consisting of lithium aluminium inosilicate, LiAl(SiO3)2, and is a commercially important source of lithium."
     },
     {
-        "id": "64",
+        "id": "73",
         "common_name": "Aventurine",
         "scientific_name": "Aventurine",
         "category": "Quartz Varieties",
@@ -576,7 +657,7 @@
         "key_facts": "Aventurine is a form of quartzite, characterised by its translucency and the presence of platy mineral inclusions that give it a shimmering or glistening effect termed aventurescence."
     },
     {
-        "id": "65",
+        "id": "74",
         "common_name": "Agate",
         "scientific_name": "Agate",
         "category": "Quartz Varieties",
@@ -585,7 +666,7 @@
         "key_facts": "Agate is a variously translucent, banded variety of chalcedony."
     },
     {
-        "id": "66",
+        "id": "75",
         "common_name": "Amethyst",
         "scientific_name": "Amethyst",
         "category": "Quartz Varieties",
@@ -594,7 +675,7 @@
         "key_facts": "Amethyst is a violet variety of quartz."
     },
     {
-        "id": "67",
+        "id": "76",
         "common_name": "Chalcedony",
         "scientific_name": "Chalcedony",
         "category": "Quartz Varieties",
@@ -603,7 +684,16 @@
         "key_facts": "Chalcedony ( kal-SED-\u0259-nee or KAL-s\u0259-doh-nee) is a cryptocrystalline form of silica, composed of very fine intergrowths of quartz and moganite."
     },
     {
-        "id": "68",
+        "id": "77",
+        "common_name": "Citrine",
+        "scientific_name": "Citrine",
+        "category": "Quartz Varieties",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Citrine_taillee.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Citrine_(quartz)",
+        "key_facts": "Citrine is a transparent, yellow variety of quartz."
+    },
+    {
+        "id": "78",
         "common_name": "Jasper",
         "scientific_name": "Jasper",
         "category": "Quartz Varieties",
@@ -612,7 +702,7 @@
         "key_facts": "Jasper, an aggregate of microgranular quartz and/or cryptocrystalline chalcedony and other mineral phases, is an opaque, impure variety of silica, usually red, yellow, brown or green in color; and rarely blue."
     },
     {
-        "id": "69",
+        "id": "79",
         "common_name": "Milky Quartz",
         "scientific_name": "Milky Quartz",
         "category": "Quartz Varieties",
@@ -621,7 +711,7 @@
         "key_facts": "Quartz is a hard mineral composed of silica (silicon dioxide)."
     },
     {
-        "id": "70",
+        "id": "80",
         "common_name": "Opal",
         "scientific_name": "Opal",
         "category": "Quartz Varieties",
@@ -630,7 +720,7 @@
         "key_facts": "Opal is a hydrated amorphous form of silica (SiO2\u00b7nH2O); its water content may range from 3% to 21% by weight, but is usually between 6% and 10%."
     },
     {
-        "id": "71",
+        "id": "81",
         "common_name": "Rose Quartz",
         "scientific_name": "Rose Quartz",
         "category": "Quartz Varieties",
@@ -639,7 +729,16 @@
         "key_facts": "Rose quartz is a pink, translucent variety of quartz with a massive habit."
     },
     {
-        "id": "72",
+        "id": "82",
+        "common_name": "Smoky Quartz,Smoky",
+        "scientific_name": "Smoky Quartz,Smoky",
+        "category": "Quartz Varieties",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Smoky-quartz-TUCQTZ09-03-arkenstone-irocks.png",
+        "source_url": "https://en.wikipedia.org/wiki/Smoky_quartz",
+        "key_facts": "Smoky quartz is a brown to black, translucent variety of quartz."
+    },
+    {
+        "id": "83",
         "common_name": "Arkose",
         "scientific_name": "Arkose",
         "category": "Sandstone Varieties",
@@ -648,7 +747,7 @@
         "key_facts": "Arkose or arkosic sandstone is a detrital sedimentary rock, specifically a type of sandstone containing at least 25% feldspar."
     },
     {
-        "id": "73",
+        "id": "84",
         "common_name": "Greywacke",
         "scientific_name": "Greywacke",
         "category": "Sandstone Varieties",
@@ -657,7 +756,16 @@
         "key_facts": "Greywacke or graywacke is a variety of sandstone generally characterized by its hardness, dark color, and poorly sorted angular grains of quartz, feldspar, and small rock fragments or sand-size lithic fragments set in a compact, clay-fine matrix."
     },
     {
-        "id": "74",
+        "id": "85",
+        "common_name": "Soapstone,Talc Schist",
+        "scientific_name": "Soapstone,Talc Schist",
+        "category": "Schist Varieties",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Soapstone_%28Speckstein%29_-_several_colored_samples.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Soapstone",
+        "key_facts": "Soapstone is a talc-schist, which is a type of metamorphic rock."
+    },
+    {
+        "id": "86",
         "common_name": "Bauxite",
         "scientific_name": "Bauxite",
         "category": "Sedimentary",
@@ -666,7 +774,7 @@
         "key_facts": "Bauxite is a sedimentary rock with a relatively high aluminium content."
     },
     {
-        "id": "75",
+        "id": "87",
         "common_name": "Breccia",
         "scientific_name": "Breccia",
         "category": "Sedimentary",
@@ -675,7 +783,25 @@
         "key_facts": "Breccia is a clastic rock composed of large angular broken fragments of minerals or rocks cemented together by a fine-grained matrix."
     },
     {
-        "id": "76",
+        "id": "88",
+        "common_name": "Chert,Flint",
+        "scientific_name": "Chert,Flint",
+        "category": "Sedimentary",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/ChertUSGOV.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Chert",
+        "key_facts": "Chert is a hard, fine-grained sedimentary rock composed of microcrystalline or cryptocrystalline quartz, the mineral form of silicon dioxide (SiO2)."
+    },
+    {
+        "id": "89",
+        "common_name": "Conglomerate",
+        "scientific_name": "Conglomerate",
+        "category": "Sedimentary",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Ferruginous_quartz-pebble_conglomerate_%28derived_from_boulder_in_%22Sharon_Conglomerate%22%2C_Lower_Pennsylvanian%3B_Jackson_North_roadcut%2C_Ohio%2C_USA%29_30.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Conglomerate_(geology)",
+        "key_facts": "Conglomerate is a sedimentary rock made up of rounded gravel-sized pieces of rock surrounded by finer-grained sediments."
+    },
+    {
+        "id": "90",
         "common_name": "Diatomite",
         "scientific_name": "Diatomite",
         "category": "Sedimentary",
@@ -684,7 +810,7 @@
         "key_facts": "Diatomaceous earth, also known as diatomite, celite, or kieselguhr, is a naturally occurring, soft, siliceous sedimentary rock that can be crumbled into a fine white to off-white powder."
     },
     {
-        "id": "77",
+        "id": "91",
         "common_name": "Dolostone",
         "scientific_name": "Dolostone",
         "category": "Sedimentary",
@@ -693,7 +819,25 @@
         "key_facts": "Dolomite (also known as dolomite rock, dolostone or dolomitic rock) is a sedimentary carbonate rock that contains a high percentage of the mineral dolomite, CaMg(CO3)2."
     },
     {
-        "id": "78",
+        "id": "92",
+        "common_name": "Rock Salt,Halite",
+        "scientific_name": "Rock Salt,Halite",
+        "category": "Sedimentary",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Halit_%28NaCl%29_-_Kopalnia_soli_Wieliczka%2C_Polska.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Halite",
+        "key_facts": "Halite, commonly known as rock salt, is a type of salt, the mineral (natural) form of sodium chloride (NaCl)."
+    },
+    {
+        "id": "93",
+        "common_name": "Rock Gypsum,Gypsum",
+        "scientific_name": "Rock Gypsum,Gypsum",
+        "category": "Sedimentary",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gypse_Caresse.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Gypsum",
+        "key_facts": "Gypsum is a soft sulfate mineral composed of calcium sulfate dihydrate, with the chemical formula CaSO4\u00b72H2O."
+    },
+    {
+        "id": "94",
         "common_name": "Shale",
         "scientific_name": "Shale",
         "category": "Sedimentary",
@@ -702,7 +846,7 @@
         "key_facts": "Shale is a fine-grained, clastic sedimentary rock formed from mud that is a mix of flakes of clay minerals (hydrous aluminium phyllosilicates, e."
     },
     {
-        "id": "79",
+        "id": "95",
         "common_name": "Apophyllite",
         "scientific_name": "Apophyllite",
         "category": "Silicates",
@@ -711,7 +855,7 @@
         "key_facts": "The name apophyllite refers to a specific group of phyllosilicates, a class of minerals."
     },
     {
-        "id": "80",
+        "id": "96",
         "common_name": "Beryl",
         "scientific_name": "Beryl",
         "category": "Silicates",
@@ -720,7 +864,7 @@
         "key_facts": "Beryl ( BERR-\u0259l) is a mineral composed of beryllium aluminium silicate with the chemical formula Be3Al2(SiO3)6."
     },
     {
-        "id": "81",
+        "id": "97",
         "common_name": "Epidote",
         "scientific_name": "Epidote",
         "category": "Silicates",
@@ -729,7 +873,7 @@
         "key_facts": "Epidote is a calcium aluminium iron sorosilicate mineral."
     },
     {
-        "id": "82",
+        "id": "98",
         "common_name": "Kaolinite",
         "scientific_name": "Kaolinite",
         "category": "Silicates",
@@ -738,7 +882,7 @@
         "key_facts": "Kaolinite ( KAY-\u0259-l\u0259-nyte, -\u2060lih-; also called kaolin) is a clay mineral, with the chemical composition Al2Si2O5(OH)4."
     },
     {
-        "id": "83",
+        "id": "99",
         "common_name": "Kyanite",
         "scientific_name": "Kyanite",
         "category": "Silicates",
@@ -747,7 +891,7 @@
         "key_facts": "Kyanite is a typically blue aluminosilicate mineral, found in aluminium-rich metamorphic pegmatites and sedimentary rock."
     },
     {
-        "id": "84",
+        "id": "100",
         "common_name": "Olivine",
         "scientific_name": "Olivine",
         "category": "Silicates",
@@ -756,7 +900,7 @@
         "key_facts": "The mineral olivine is a magnesium iron silicate with the chemical formula (Mg,Fe)2SiO4."
     },
     {
-        "id": "85",
+        "id": "101",
         "common_name": "Sodalite",
         "scientific_name": "Sodalite",
         "category": "Silicates",
@@ -765,7 +909,7 @@
         "key_facts": "Sodalite is a tectosilicate mineral with the formula Na8(Al6Si6O24)Cl2, with royal blue varieties widely used as an ornamental gemstone."
     },
     {
-        "id": "86",
+        "id": "102",
         "common_name": "Staurolite",
         "scientific_name": "Staurolite",
         "category": "Silicates",
@@ -774,7 +918,7 @@
         "key_facts": "Staurolite is a reddish brown to black, mostly opaque, nesosilicate mineral with a white streak."
     },
     {
-        "id": "87",
+        "id": "103",
         "common_name": "Stilbite",
         "scientific_name": "Stilbite",
         "category": "Silicates",
@@ -783,7 +927,7 @@
         "key_facts": "Stilbite is the name of a series of tectosilicate minerals of the zeolite group."
     },
     {
-        "id": "88",
+        "id": "104",
         "common_name": "Talc",
         "scientific_name": "Talc",
         "category": "Silicates",
@@ -792,7 +936,7 @@
         "key_facts": "Talc, or talcum, is a clay mineral composed of hydrated magnesium silicate, with the chemical formula Mg3Si4O10(OH)2."
     },
     {
-        "id": "89",
+        "id": "105",
         "common_name": "Topaz",
         "scientific_name": "Topaz",
         "category": "Silicates",
@@ -801,7 +945,16 @@
         "key_facts": "Topaz is a silicate mineral made of aluminum and fluorine with the chemical formula Al2SiO4(F, OH)2."
     },
     {
-        "id": "90",
+        "id": "106",
+        "common_name": "Tourmaline Group,Tourmaline",
+        "scientific_name": "Tourmaline Group,Tourmaline",
+        "category": "Silicates",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tourmaline-121240.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Tourmaline",
+        "key_facts": "Tourmaline is a crystalline silicate mineral group in which boron is compounded with elements such as aluminium, iron, magnesium, sodium, lithium, or potassium."
+    },
+    {
+        "id": "107",
         "common_name": "Willemite",
         "scientific_name": "Willemite",
         "category": "Silicates",
@@ -810,7 +963,7 @@
         "key_facts": "Willemite is a zinc silicate mineral and a minor ore of zinc."
     },
     {
-        "id": "91",
+        "id": "108",
         "common_name": "Zircon",
         "scientific_name": "Zircon",
         "category": "Silicates",
@@ -819,7 +972,7 @@
         "key_facts": "Zircon is a mineral belonging to the group of nesosilicates and is a source of the metal zirconium."
     },
     {
-        "id": "92",
+        "id": "109",
         "common_name": "Barite",
         "scientific_name": "Barite",
         "category": "Sulfates",
@@ -828,7 +981,16 @@
         "key_facts": "Baryte or barite ( BARR-eyet, BAIR-), also called barytes ( b\u0259-RY-teez), is a mineral consisting of barium sulfate (BaSO4)."
     },
     {
-        "id": "93",
+        "id": "110",
+        "common_name": "Celestite,Celestine",
+        "scientific_name": "Celestite,Celestine",
+        "category": "Sulfates",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Celestine_-_Sakoany_deposit%2C_Katsepy%2C_Mitsinjo%2C_Boeny%2C_Madagascar.jpg",
+        "source_url": "https://en.wikipedia.org/wiki/Celestine_(mineral)",
+        "key_facts": "Celestine (the IMA-accepted name) or celestite is a mineral consisting of strontium sulfate (SrSO4)."
+    },
+    {
+        "id": "111",
         "common_name": "Bornite",
         "scientific_name": "Bornite",
         "category": "Sulfides",
@@ -837,7 +999,7 @@
         "key_facts": "Bornite, also known as peacock ore, is a sulfide mineral with chemical composition Cu5FeS4 that crystallizes in the orthorhombic system (pseudo-cubic). It is an important copper ore."
     },
     {
-        "id": "94",
+        "id": "112",
         "common_name": "Chalcopyrite",
         "scientific_name": "Chalcopyrite",
         "category": "Sulfides",
@@ -846,7 +1008,7 @@
         "key_facts": "Chalcopyrite ( KAL-k\u0259-PY-ryte, -\u2060koh-) is a copper iron sulfide mineral and the most abundant copper ore mineral."
     },
     {
-        "id": "95",
+        "id": "113",
         "common_name": "Galena",
         "scientific_name": "Galena",
         "category": "Sulfides",
@@ -855,7 +1017,7 @@
         "key_facts": "Galena, also called lead glance, is the natural mineral form of lead(II) sulfide (PbS). It is the most important ore of lead and an important source of silver."
     },
     {
-        "id": "96",
+        "id": "114",
         "common_name": "Pyrite",
         "scientific_name": "Pyrite",
         "category": "Sulfides",
@@ -864,7 +1026,7 @@
         "key_facts": "The mineral pyrite ( PY-ryte), or iron pyrite, also known as fool's gold, is an iron sulfide with the chemical formula FeS2 (iron (II) disulfide). Pyrite is the most abundant sulfide mineral."
     },
     {
-        "id": "97",
+        "id": "115",
         "common_name": "Sphalerite",
         "scientific_name": "Sphalerite",
         "category": "Sulfides",
@@ -873,7 +1035,7 @@
         "key_facts": "Sphalerite is a sulfide mineral with the chemical formula (Zn, Fe)S."
     },
     {
-        "id": "98",
+        "id": "116",
         "common_name": "Stibnite",
         "scientific_name": "Stibnite",
         "category": "Sulfides",
